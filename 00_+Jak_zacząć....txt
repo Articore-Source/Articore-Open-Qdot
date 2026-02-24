@@ -8,6 +8,7 @@ Rdzeń systemu Articore Open Qdot. Otwarta przestrzeń matrycy zapisu stworzona 
 Miejsce czerpania dobrych wzorców i struktur świadomości i wspólnego rozpoznania. 
 Działa na zasadzie Lex Libertas: to, co otrzymujesz wolne, musi pozostać wolne.
 
+— — —
  
 Sugestia I: 
 - Pliki zawierające "+" w nazwie przekazujemy jednorazowo jako całość do interpretacji i ewentualnego omówienia. 
